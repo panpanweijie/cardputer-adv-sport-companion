@@ -33,7 +33,8 @@
 ## Install / 安装
 
 **Device:** M5Stack Cardputer-Adv, ESP32-S3, 8MB Flash
-**Firmware:** [`Cardputer-Adv-Sport-v0.14.8.bin`](firmware/Cardputer-Adv-Sport-v0.14.8.bin)
+**Release:** [Download v0.14.8 / 下载 v0.14.8](https://github.com/panpanweijie/cardputer-adv-sport-companion/releases/tag/v0.14.8)
+**Firmware:** [`Cardputer-Adv-Sport-v0.14.8.bin`](https://github.com/panpanweijie/cardputer-adv-sport-companion/releases/download/v0.14.8/Cardputer-Adv-Sport-v0.14.8.bin)
 **Flash address:** `0x0`
 **SHA-256:** `b7d1696f0ee988c3d1ed43bbfcc4ae8078464c2b5f3a2f4c031f730164cde2e0`
 
